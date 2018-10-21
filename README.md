@@ -9,4 +9,26 @@
 4. hitung luas dengan perintah `luas = l * p;`
 5. tampilkan hasilnya dengan perintah `cout << luas;`
 
+### code lengkapnya adalah:
+```c++
 
+#include<iostream>
+
+using namespace std;
+
+int main() {
+    int p, l, luas;
+    
+    cout << "Masukkan panjang: ";
+    cin >> p;
+    cout << "Masukkan lebar: ";
+    cin >> l;
+    
+    luas = p * l;
+    
+    cout << "Luas persegi panjang adalah: " << luas << endl;
+
+    return 0;
+}
+
+```

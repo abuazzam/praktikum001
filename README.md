@@ -32,3 +32,6 @@ int main() {
 }
 
 ```
+
+** hasilnya: **
+![ss_hasil](https://raw.githubusercontent.com/abuazzam/praktikum001/master/ss_latihan1.png)
